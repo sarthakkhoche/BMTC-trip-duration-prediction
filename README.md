@@ -1,28 +1,8 @@
-# BMTC-trip-duration-prediction
-ML model to predict time taken for a bus trip :fireworks:
-
-## Installation
-
-Make sure `w1.csv` is in the `dataset` folder
-
-To install the conda  environment
-```
-conda env create -f environment.yml
-```
-
-To update your environment from the yml file
-```
-conda env update -f environment.yml
-```
-
-To activate a conda environment
-```
-conda activate
-```
-
-
-The PEP8 styleguide will be used for this project. Run this before making every commit.
-``` 
-pycodestyle src
-```
-
+![alt text](report/report-1.jpg)
+![alt text](report/report-2.jpg)
+![alt text](report/report-3.jpg)
+![alt text](report/report-4.jpg)
+![alt text](report/report-5.jpg)
+![alt text](report/report-6.jpg)
+![alt text](report/report-7.jpg)
+![alt text](report/report-8.jpg)
